@@ -1,5 +1,5 @@
-# 💫 Sobre mim:
-Último semestre do curso técnico de Desenvolvimento de Sistemas - SENAI<br><br>Atualmente estudando (em paralelo):<br><br>Desenvolvimento web<br>● HTML5<br>● CSS3<br>● JS<br>● Bootstrap 5
+# ⭐ Sobre mim:
+📚 Último semestre do curso técnico de Desenvolvimento de Sistemas - SENAI<br><br>Atualmente estudando (em paralelo):<br><br>Desenvolvimento web<br>● HTML5<br>● CSS3<br>● JS<br>● Bootstrap 5
 
 
 # 💻 Tech Stack:
