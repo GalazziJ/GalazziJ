@@ -1,4 +1,4 @@
-# Sobre mim:
+# ⭐Sobre mim:
 📚 Último semestre do curso técnico de Desenvolvimento de Sistemas - SENAI<br><br>
 
 
