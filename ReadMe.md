@@ -1,5 +1,5 @@
 # ⭐Sobre mim:
-</> Desenvolvedora front-end em formação!
+</> Desenvolvedora front-end em formação!<br><br>
 📚 Último semestre do curso técnico de Desenvolvimento de Sistemas - SENAI<br><br>
 
 
