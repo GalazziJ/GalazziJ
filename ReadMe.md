@@ -6,7 +6,7 @@
 
 #  </> Portfólio
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://galazzij.github.io/portfolio/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://galazzij.github.io/)
 
 # 📊 Status no GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=GalazziJ&theme=discord_old_blurple&hide_border=false&include_all_commits=false&count_private=false)<br/>
