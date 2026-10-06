@@ -39,7 +39,7 @@
 <text x="315" y="460" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10" font-weight="700" letter-spacing="3" fill="#ff8a80">FORKS</text>
 <text x="485" y="437" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="38" font-weight="800" fill="#fff">7</text>
 <text x="485" y="460" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10" font-weight="700" letter-spacing="3" fill="#ff4081">REPOSITÓRIOS</text>
-<text x="655" y="437" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="38" font-weight="800" fill="#fff">14</text>
+<text x="655" y="437" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="38" font-weight="800" fill="#fff">17</text>
 <text x="655" y="460" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10" font-weight="700" letter-spacing="3" fill="#ff1744">COMMITS</text>
 <line x1="60" y1="492" x2="740" y2="492" stroke="#ff1744" stroke-opacity=".18"/>
 <text x="60" y="525" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10" font-weight="700" letter-spacing="4" fill="#ff3355">ANÁLISE DA STACK</text>
@@ -62,7 +62,7 @@
 <text x="620" y="588" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#e8c4cc">C <tspan fill="#7d3a48" font-size="9">&lt;1%</tspan></text>
 <line x1="60" y1="640" x2="740" y2="640" stroke="#ff1744" stroke-opacity=".18"/>
 <text x="60" y="672" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10" font-weight="700" letter-spacing="4" fill="#ff3355">ATIVIDADE</text>
-<text x="740" y="672" text-anchor="end" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10" font-weight="700" fill="#7d3a48">16 contribuições</text>
+<text x="740" y="672" text-anchor="end" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10" font-weight="700" fill="#7d3a48">19 contribuições</text>
 <rect x="63.5" y="695" width="10" height="10" rx="2" fill="#1c070d"/>
 <rect x="63.5" y="708" width="10" height="10" rx="2" fill="#1c070d"/>
 <rect x="63.5" y="721" width="10" height="10" rx="2" fill="#1c070d"/>
@@ -422,7 +422,7 @@
 <rect x="713.5" y="773" width="10" height="10" rx="2" fill="#1c070d"/>
 <rect x="726.5" y="695" width="10" height="10" rx="2" fill="#1c070d"/>
 <rect x="726.5" y="708" width="10" height="10" rx="2" fill="#ffffff"/>
-<rect x="726.5" y="721" width="10" height="10" rx="2" fill="#a3112f"/>
+<rect x="726.5" y="721" width="10" height="10" rx="2" fill="#5e0b1e"/>
 <line x1="60" y1="805" x2="740" y2="805" stroke="#ff1744" stroke-opacity=".18"/>
 <text x="60" y="838" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10" font-weight="700" letter-spacing="4" fill="#ff3355">PROJETOS PRINCIPAIS</text>
 <rect x="60" y="860" width="216" height="130" rx="14" fill="url(#card)" stroke="#ff1744" stroke-opacity=".4"/>
