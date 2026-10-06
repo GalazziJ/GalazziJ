@@ -25,8 +25,7 @@ jobs:
 
       - name: Gerar o cartão
         env:
-          # Usa o token pessoal (se você criou o segredo PERFIL_TOKEN);
-          # caso contrário, usa o token padrão do Actions.
+      
           GH_TOKEN: ${{ secrets.PERFIL_TOKEN || secrets.GITHUB_TOKEN }}
           LOGIN: ${{ github.repository_owner }}
         run: python scripts/gerar_aura.py
