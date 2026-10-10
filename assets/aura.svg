@@ -426,6 +426,7 @@
 <rect x="726.5" y="734" width="10" height="10" rx="2" fill="#1c070d"/>
 <rect x="726.5" y="747" width="10" height="10" rx="2" fill="#1c070d"/>
 <rect x="726.5" y="760" width="10" height="10" rx="2" fill="#1c070d"/>
+<rect x="726.5" y="773" width="10" height="10" rx="2" fill="#1c070d"/>
 <line x1="60" y1="805" x2="740" y2="805" stroke="#ff1744" stroke-opacity=".18"/>
 <text x="60" y="838" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10" font-weight="700" letter-spacing="4" fill="#ff3355">PROJETOS PRINCIPAIS</text>
 <rect x="60" y="860" width="216" height="130" rx="14" fill="url(#card)" stroke="#ff1744" stroke-opacity=".4"/>
