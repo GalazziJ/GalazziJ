@@ -58,7 +58,7 @@ Will I be able to combine 3D elements to create interactive dashboards with accu
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,three,vite,bootstrap&theme=dark" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,threejs,vite,bootstrap&theme=dark" alt="Frontend" />
 
 ### Backend
 
