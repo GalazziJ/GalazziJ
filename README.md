@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" alt="Banner" width="100%" height="420px" />
+<img src="banner1.png" alt="Banner" width="100%" height="420px" />
 
 ### Desenvolvedora Frontend · Frontend Developer
 
